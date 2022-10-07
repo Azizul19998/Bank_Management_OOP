@@ -5,6 +5,6 @@ public class HDFC extends Bank {
         this.password=password;
        // this.balance=balance;
         setBalance(balance);
-    }
+    } // try
 
 }
